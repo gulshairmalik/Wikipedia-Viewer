@@ -1,0 +1,8 @@
+a:hover{
+    text-decoration: none; 
+}
+.e:hover{
+   background-color:rgb(37, 62, 102);
+   transition: .9s ease;
+}
+
